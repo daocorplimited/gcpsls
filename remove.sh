@@ -1,0 +1,1 @@
+gcloud functions delete python-http-function --gen2 --region=europe-west3
